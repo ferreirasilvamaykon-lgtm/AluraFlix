@@ -1,0 +1,2 @@
+# AluraFlix
+indicador de videos
